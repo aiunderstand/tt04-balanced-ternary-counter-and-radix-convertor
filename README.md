@@ -1,5 +1,13 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
 
+![Chip overview](https://github.com/aiunderstand/tt04-balanced-ternary-counter-and-radix-convertor/tree/main/overview.png)
+
+
+![Vivado simulation results](https://github.com/aiunderstand/tt04-balanced-ternary-counter-and-radix-convertor/tree/main/vivado_simulation_result.png)
+
+![Counter design](https://github.com/aiunderstand/tt04-balanced-ternary-counter-and-radix-convertor/tree/main/counter_design.png)
+
+![FPGA test](https://github.com/aiunderstand/tt04-balanced-ternary-counter-and-radix-convertor/tree/main/basys3_fpga.jpg)
 # What is Tiny Tapeout?
 
 TinyTapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip!
